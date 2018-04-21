@@ -1,0 +1,3 @@
+The total number of words: 0
+The total number of characters: 0
+The total number of distinct words: 0
